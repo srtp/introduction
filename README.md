@@ -13,6 +13,14 @@ I am interested in Javascript language and Framework React.
 - PHP Project’s E-document: Circulation document system and Responsive Device Link :  https://bit.ly/3lIbysI
 - PHP Project in Test E-document collaboration with API PYTHON: It was an experimental project using CRUD via Curl in CRUD with API.  Link : https://github.com/srtp/e-doc
 
+## Learning on youtube
+ - PHP various channels
+ - HTML AND CSS CMDev https://www.youtube.com/user/CMDevChannel
+ - JS basic from KongRuksiam Official  https://www.youtube.com/c/KongRuksiamOfficial
+ - JS ES6 Coming Soon.
+ - React Coming Soon.
+
+
 ## My website mysrtp.com for wordpress Link : https://mysrtp.com/
 
 ## My profile on Fastwork and you can see review > https://bit.ly/3p32m4u
