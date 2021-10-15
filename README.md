@@ -8,6 +8,7 @@ As of now, I am a freelancer on Fastwork where I am available to be hired in doi
 I am interested in Javascript language and Framework React.
 
 ## You can see more my project
+- JS Basic https://github.com/srtp/Workshop_JS
 - PHP Project’s Snoopshop: Backend online sales website using mysql (phpmyadmin). Link : https://github.com/srtp/PHP
 - PHP Project’s Quotation: Made a quote to bring Snoopshop project to add a quote function converting it to PDF. // Sorry i foget save file in device
 - PHP Project’s E-document: Circulation document system and Responsive Device Link :  https://bit.ly/3lIbysI
