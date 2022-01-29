@@ -15,27 +15,37 @@ things
 
 ## LEARNING SKILLS
 • PROGRAMING LANGUAGES : REACT
+
 • OPTIONAL: API
 
 ## WORK EXPERIENCE
 • FREELANCE : Website design with wordpress (CMS) Fastwork (July 2021 - present)
+
     • Design layout , install and setting plugin for requirements to customer
+    
     • Portfolio : https://mysrtp.com
 
 
 ## SOFT SKILLS
 • Active and Ambitious
+
 • Ready to learn new things
+
 • Team work and Open to suggestion
 
 ## PROJECT
 • PHP Project’s Snoopshop: Backend online sales website using mysql (phpmyadmin)(2020)
+
 • PHP Project’s Quotation: Made a quote to bring Snoopshop project to add a quote function 
 converting it to PDF(2020)
+
 • PHP Project in Test E-document collaboration with API PYTHON: It was an experimental project using 
 CRUD via Curl in CRUD with API(2020)
+
 • PHP Project’s E-document: Circulation document system and Responsive Device(2020)
+
 • Todo-list with React CRUD (2021)
+
 • Web board with React : post and comment CRUD (2022)
 
 
