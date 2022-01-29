@@ -1,30 +1,39 @@
 
-## You are welcome my profile
+## SUMMARY OF QUALIFICATIONS
 
-Currently studying at a university level, expected to graduate in November. Have the ability to write HTML CSS PHP relatively well and write Responsive in CSS moderately good.
-As of now, I am a freelancer on Fastwork where I am available to be hired in doing a general website and e-commerce on Wordpress. I just started doing it last August. Currently, there were about 14 customers from August - October. I have some level of proficiency in Photoshop and I am always and willingly ready to learn new things.
+I am a fresh graduate majoring in Information Technology at Kasetsart University Sriracha Campus.
+My experience has Web Design with wordpress. The skill I have is HTML , CSS , JAVASCRIPT , PHP , REACT and I 
+am learning about React and API . I am active , ambitious and I am always and willingly ready to learn new 
+things
 
-## Interested
-I am interested in Javascript language and Framework React.
+## TECHNICAL SKILLS
+• PROGRAMING LANGUAGES : HTML , CSS , JAVASCRIPT , PHP , REACT
+• DATABASE : SQL
+• DOMAIN & HOSTING : Can register
 
-## You can see more my project
-- JS Basic https://github.com/srtp/Workshop_JS
-- PHP Project’s Snoopshop: Backend online sales website using mysql (phpmyadmin). Link : https://github.com/srtp/PHP
-- PHP Project’s Quotation: Made a quote to bring Snoopshop project to add a quote function converting it to PDF. // Sorry i foget save file in device
-- PHP Project’s E-document: Circulation document system and Responsive Device Link :  https://bit.ly/3lIbysI
-- PHP Project in Test E-document collaboration with API PYTHON: It was an experimental project using CRUD via Curl in CRUD with API.  Link : https://github.com/srtp/e-doc
-- Vue Project’s VueMovie_final with friend https://github.com/srtp/VueMovie_final
+## LEARNING SKILLS
+• PROGRAMING LANGUAGES : REACT
+• OPTIONAL: API
 
-## Learning on youtube
- - PHP various channels
- - HTML AND CSS CMDev https://www.youtube.com/user/CMDevChannel
- - JS basic from KongRuksiam Official  https://www.youtube.com/c/KongRuksiamOfficial
- - JS ES6 Coming Soon.
- - React Coming Soon.
+## WORK EXPERIENCE
+• FREELANCE : Website design with wordpress (CMS) Fastwork (July 2021 - present)
+    • Design layout , install and setting plugin for requirements to customer
+    • Portfolio : https://mysrtp.com
 
 
-## My website mysrtp.com for wordpress Link : https://mysrtp.com/
+## SOFT SKILLS
+• Active and Ambitious
+• Ready to learn new things
+• Team work and Open to suggestion
 
-## My profile on Fastwork and you can see review > https://bit.ly/3p32m4u
- - Portfolio for Wordpress : https://nimb.ws/PvDmEy
+## PROJECT
+• PHP Project’s Snoopshop: Backend online sales website using mysql (phpmyadmin)(2020)
+• PHP Project’s Quotation: Made a quote to bring Snoopshop project to add a quote function 
+converting it to PDF(2020)
+• PHP Project in Test E-document collaboration with API PYTHON: It was an experimental project using 
+CRUD via Curl in CRUD with API(2020)
+• PHP Project’s E-document: Circulation document system and Responsive Device(2020)
+• Todo-list with React CRUD (2021)
+• Web board with React : post and comment CRUD (2022)
+
 
