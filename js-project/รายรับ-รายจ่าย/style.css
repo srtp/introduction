@@ -1,0 +1,76 @@
+.topic-text{
+    padding-top: 50px;
+}
+
+.form-control{
+    
+    display: block;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: rgb(41, 41, 41);
+    font-family: "Prompt", sans-serif;
+   
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    padding: 0px 400px 2px 400px;
+    background-color: rgba(255, 255, 255, 0.952);
+}
+
+.amount-box{
+    border-radius: 5px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(41, 41, 41);
+    display: inline-flex;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.box-plus{
+    padding-right: 40px;
+}
+
+.total-text{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(228, 228, 228);
+    text-align: center;
+}
+
+.statement{
+    padding: 20px;
+   
+}
+
+.form-control{
+    padding-top: 20px;
+    background-color: rgb(243, 243, 243);
+
+}
+
+.list li{
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 5px;
+    background-color: rgb(230, 230, 230);
+}
+
+
+

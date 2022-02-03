@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<!-- onload -->
+<body onload="welcome()">
+    <div id="box">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit vel quo unde maxime dolorem a vero. Necessitatibus ipsam eaque earum dicta voluptatibus distinctio aliquam, id culpa tempora optio blanditiis nihil?</p>
+    </div>
+    <!-- on focus // onblur -->
+    <label for="">ชื่อ</label>
+    <input type="text" placeholder="ป้อนชื่อของคุณ" onfocus="hightlight(this)" onblur="unhightlight(this)">
+    
+
+    <!--แสดงค่าที่เลือก (Value)-->
+    <label for="">เลือกภาษาของคุณ</label>
+    <select name="" id="menu">
+        <option value="JS">JS</option>
+        <option value="Python">Python</option>
+        <option value="Bootstrap">Bootstrap</option>
+    </select>
+    <p id="display"></p><br>
+    
+    <!-- onmouse over / out  -->
+    <p>Screen</p>
+    <a href="" >Menu 1</a>
+    <a href="" >Menu 2</a>
+    <button id="btn">แจ้งเตือน</button>
+    <script src="EventListener.js"></script>
+</body>
+</html>

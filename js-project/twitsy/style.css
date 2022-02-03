@@ -1,0 +1,39 @@
+body {
+    background: #1DA1F2;
+   
+}
+
+.mainDiv {
+    padding: 100px;
+    margin: 50px;
+    background-color: #F5F8FA;
+    width: 1000px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+}
+
+.todo-input {
+    margin-right: 10px;
+    border-radius: 5px;
+    color: #F5F8FA;
+    background-color: #657786;
+    border: none;
+    padding: 8px;
+    width: 360px;
+
+}
+
+.todo-list {
+    border-radius: 5px;
+    padding: 40px;
+    background-color: #E1E8ED;
+}
+
+.text-line{
+    text-decoration:line-through;
+}
+
+.buttonCSS {
+    margin-right: 10px;
+}

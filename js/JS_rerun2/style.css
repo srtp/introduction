@@ -1,0 +1,84 @@
+.message {
+    background-color: white;
+    border: 2px solid black;
+    padding: 16px;
+    margin-bottom: 20px;
+}
+
+.message.orange-box{
+    background-color: orange;
+}
+
+
+.message.green-box{
+    background-color: forestgreen;
+}
+
+.dark-theme{
+    color: white;
+    background-color: black;
+}
+
+.dark-theme .message {
+    color: white;
+    background-color:#3333;
+    border-color: gold;
+    
+
+}
+
+/* ใช้กับ Dom mouse */
+
+.thumbnail-img{
+    width: 200px;
+    height: 200px;
+}
+
+.big-img{
+    width: 400px;
+    height: 400px;
+}
+
+/* มาจาก JS DOM SCROLL */
+.scroll-info{
+    background-color: rgb(230, 135, 11);
+    height: 60px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 99;
+    transition: top 0.3s ease-out;
+}
+
+.scroll-info.hide{
+    top: -61px
+}
+
+/* มาจาก dom attribute */
+
+.spoil-button {
+    font-size: 20px;
+    padding: 8px;
+  }
+  
+  .spoil-message {
+    background-color: white;
+    border: 2px solid black;
+    font-size: 18px;
+    display: none;
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .spoil-message.show {
+    display: block;
+  }
+
+  /* Dom Modify */
+  .todo {
+      padding: 30px;
+      border: solid 1px;
+      border-color: black;
+      margin: 20px;
+  }

@@ -1,0 +1,49 @@
+body {
+    font-family: "Prompt", sans-serif;
+    background-color: rgb(247, 247, 247);
+}
+
+.btn {
+    margin: 25px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 100;
+    border-color: white;
+    font-family: "Prompt", sans-serif;
+
+
+}
+
+.btn:hover{
+    background-color: rgba(177, 60, 60, 0.932);
+}
+
+select {
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+    border-style: solid;
+    border-color: transparent;
+    background-color: rgb(150, 150, 150);
+    font-size: 20px;
+    color: white;
+    font-family: "Prompt", sans-serif;
+    text-align: right;
+
+}
+
+.swap-container {
+    display: inline;
+
+
+}
+
+.rate{
+    margin: 5px;
+    font-size: 20px;
+}

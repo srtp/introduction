@@ -1,0 +1,24 @@
+/* เรียนใช้จาก dom_doc.html */
+.petch {
+    
+    color: blueviolet;
+    background: rgb(46, 46, 46);
+}
+
+.light{
+    color: black;
+    background-color: coral;
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
+/* เรียกใช้จาก dom_css.html */
+.darkmode{
+border: 1px solid #fff;
+background-color: black;
+color: white;
+padding: 30px;
+margin: 10px;
+}
