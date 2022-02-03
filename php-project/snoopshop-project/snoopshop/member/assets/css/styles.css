@@ -1,0 +1,28 @@
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: 'Mitr', sans-serif;
+    
+}
+
+.nav-item {
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+.text-center {
+    font-size: 2.3rem;
+    font-weight: 400;
+    font-family: 'Kanit', sans-serif;
+}
+
+.product{
+margin-top: 0px;
+margin-left:100px;
+margin-right: 0px;
+margin-bottom: 0px;
+
+}
+

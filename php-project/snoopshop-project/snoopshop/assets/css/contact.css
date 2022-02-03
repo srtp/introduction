@@ -1,0 +1,43 @@
+footer {
+    background-color: #252728;
+    height: 200px;
+    margin-left: -200px;
+    margin-top: 100px;
+}
+
+.infoMember .textMember {
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 100;
+    font-family: 'Kanit', sans-serif;
+    bottom: 200px;
+    margin-left: 900px;
+    margin-top: -70px;
+    text-align: left;
+}
+
+.imageMember {
+  width: 125px;
+  height: 125px;
+  left: 750px;
+  top: 50px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.rounded {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+#dot li {
+    margin-bottom: -15px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    width: 10px;
+    height: 9px;
+}
+

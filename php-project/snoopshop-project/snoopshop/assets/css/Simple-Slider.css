@@ -1,0 +1,142 @@
+/* Arrow prev-next in carousel*/
+.carousel-inner {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-control-prev {
+  position: absolute;
+  opacity: 0.1;
+}
+
+.carousel-control-prev:hover {
+  left: 50px;
+  opacity: 1;
+  transition: 0.8s;
+}
+
+.carousel-control-next {
+  position: absolute;
+  opacity: 0.1;
+}
+
+.carousel-control-next:hover {
+  right: 50px;
+  opacity: 1;
+  transition: 0.8s;
+}
+
+.carousel-caption {
+  width: 200px;
+  height: 150px;
+}
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(179, 179, 179);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.carousel-control-prev-icon {
+  padding-top: 50px;
+}
+
+.carousel-control-next-icon {
+  padding-top: 50px;
+}
+
+/* carousel-button */
+.buttons1 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 260px;
+  font-weight: 1000;
+  font-size: 1.1rem;
+  background-color: #ffffff;
+  opacity: 0.5;
+  color: #000000;
+  cursor: pointer;
+  margin-top: 0.4rem;
+  padding: 0.5rem 2.5rem;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttons1:focus {
+  outline: none;
+}
+
+.carousel-caption .buttons1:hover {
+  font-weight: 1000;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.buttons2 {
+  position: absolute;
+  display: inline-block;
+  margin-left: -190px;
+  font-weight: 1000;
+  font-size: 1.1rem;
+  background-color: #ffffff;
+  opacity: 0.5;
+  color: #000000;
+  cursor: pointer;
+  margin-top: 0.4rem;
+  bottom: 110px;
+  padding: 0.5rem 2.5rem;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttons2:focus {
+  outline: none;
+}
+
+.carousel-caption .buttons2:hover {
+  font-weight: 1000;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.buttons3 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 410px;
+  bottom: 180px;
+  font-weight: 1000;
+  font-size: 1.1rem;
+  background-color: #ffffff;
+  opacity: 0.5;
+  color: #000000;
+  cursor: pointer;
+  margin-top: 0.4rem;
+  padding: 0.5rem 2.5rem;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttons3:focus {
+  outline: none;
+}
+
+.carousel-caption .buttons3:hover {
+  font-weight: 1000;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/* Card-carousel */
+#cardCarousel {
+  height: 100px;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
