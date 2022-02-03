@@ -1,0 +1,96 @@
+.app-blog {
+  color: white;
+  background-color: rgb(10, 44, 65);
+  border-radius: 5px;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 40px;
+}
+
+.box-comment{
+  background-color: rgb(87, 161, 207);
+  border-radius: 5px;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 40px;
+}
+
+.edit-blog-bg {
+  background-color: rgba(0, 0, 0, 0.808);
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.form-edit {
+  margin-top: 100px;
+  width: 50%;
+  max-height: calc(100vh - 120px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-edit h1 {
+  color: white;
+  font-size: 30px;
+}
+
+/* .content {
+  color: white;
+  font-size: 16px;
+  font-weight: 100;
+} */
+
+h1 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.topic {
+  margin-bottom: 10px;
+}
+
+.single-blog{
+  color: white;
+  background-color: rgb(10, 44, 65);
+  border-radius: 5px;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 40px;
+}
+
+.single-h1{
+  color: greenyellow;
+}
+
+.author {
+  color: blueviolet;
+}
+
+.single-id{
+  color: antiquewhite;
+}
+
+.comment-content{
+  color: rgb(198, 250, 10);
+}
+
+.span-content{
+  color: rgb(255, 255, 255);
+}
+
+.reply-author{
+  color: azure;
+}
+
+.span-author{
+  color:rgb(78, 6, 245);
+}
+
+
