@@ -34,7 +34,7 @@ things
 • Team work and Open to suggestion
 
 ## PROJECT
-• PHP Project’s Snoopshop: Backend online sales website using mysql (phpmyadmin)(2020)
+• PHP Project’s Snoopshop: Full-Stack online sales website using mysql (phpmyadmin)(2020)
 
 • PHP Project’s Quotation: Made a quote to bring Snoopshop project to add a quote function 
 converting it to PDF(2020)
