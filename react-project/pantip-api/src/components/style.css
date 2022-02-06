@@ -1,0 +1,29 @@
+.app-blog {
+  color: white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 40px;
+}
+
+.topic {
+  margin-bottom: 10px;
+  color: black;
+}
+
+.h1-top{
+   padding-top: 40px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.main {
+    background-color: #1d7bf5;
+
+  }
+
+  .numpost{
+      color: green;
+  }
