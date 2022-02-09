@@ -24,6 +24,9 @@ const Home = observer(() => {
     });
   };
 
+
+
+
   const closePopup = () => {
     setEditPost(null);
   };
