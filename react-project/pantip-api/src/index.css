@@ -1,9 +1,14 @@
 body {
+  height:100vh;
   margin: 0;
   font-weight: 300;
   font-family: -apple-system, "Prompt", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.bg {
+  background-color: #1d7bf5;
 }
 
 code {

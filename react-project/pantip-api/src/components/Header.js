@@ -1,6 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router,Link, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
 import Home from "./Home";
+import PostElements from "./post/PostElements";
 import Write from "./Write";
 
 function Header() {
@@ -33,6 +34,7 @@ function Header() {
         </nav>
         <Routes>
           <Route path="/" exact element={<Home />} />
+          <Route path="/post/:id"  element={<PostElements />} />
           <Route path="/write" exact element={<Write />} />
         </Routes>
       </div>

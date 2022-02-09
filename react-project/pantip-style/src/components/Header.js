@@ -132,7 +132,11 @@ export default function Header() {
             }
             return (
               <div>
-                <SingleBlog dataBlog={dataBlog} allComment={allComment} setAllComment={setAllComment} />
+                <SingleBlog
+                  dataBlog={dataBlog}
+                  allComment={allComment}
+                  setAllComment={setAllComment}
+                />
               </div>
             );
           }}

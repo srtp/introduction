@@ -1,10 +1,10 @@
 import React from "react";
 import Header from "./components/Header";
-import Test from "./components/Test";
+import "./components/style.css";
 
 export default function App() {
   return (
-    <div align="center">
+    <div align="center" className="main">
       <Header />
     </div>
   );

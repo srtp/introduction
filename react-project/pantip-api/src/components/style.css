@@ -13,17 +13,58 @@
   color: black;
 }
 
-.h1-top{
-   padding-top: 40px;
-    font-size: 30px;
-    color: aliceblue;
+.h1-top {
+  padding-top: 40px;
+  font-size: 30px;
+  color: aliceblue;
 }
 
-.main {
-    background-color: #1d7bf5;
+.numpost {
+  color: green;
+}
 
-  }
+.edit-blog-bg {
+  background-color: rgba(0, 0, 0, 0.808);
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
 
-  .numpost{
-      color: green;
-  }
+.form-edit {
+  margin-top: 100px;
+  width: 50%;
+  max-height: calc(100vh - 120px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-edit h1 {
+  color: white;
+  font-size: 30px;
+}
+.postElement {
+  margin-top: 50px;
+  background-color: white;
+  width: 50%;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.box-comments {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgba(236, 236, 236, 0.658);
+  width: 40%;
+}
+
+.box-commentsIn {
+  border-radius: 5px;
+  background-color: white;
+  width: 99%;
+  padding: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
